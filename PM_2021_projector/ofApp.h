@@ -17,6 +17,7 @@
 
 #include "ofMain.h"
 #include "ofxOsc.h"
+#include <unistd.h>
 
 #define PORT_TO_SLAVE 8000
 #define PORT_TO_CONTROLLER 7000
